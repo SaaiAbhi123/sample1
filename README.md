@@ -1,2 +1,2 @@
 # sample1
-This is a sample repository
+This is a sample repository.I am editing the README file. Adding some more details about the project description.
